@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Oleksandr
 
-[![Linkedin: oleksandr.korol](https://img.shields.io/badge/-korol.oleksandr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/korol.oleksandr/)](https://www.linkedin.com/in/korol.oleksandr/)
+[![Linkedin: oleksandr.korol](https://img.shields.io/badge/-oleksandr.korol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleksandr-korol/)](https://www.linkedin.com/in/oleksandr-korol/)
 ![GitHub followers](https://img.shields.io/github/followers/dufran?label=Follow&style=social)
 
 ## Bio
