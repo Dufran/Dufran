@@ -59,7 +59,7 @@ Place where I learn by doing
 
 [Homelab](https://github.com/HomeLabHQ)
 
-## Some stats
+## Weekly stats
 
 <!--START_SECTION:waka-->
 
