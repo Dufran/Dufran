@@ -59,16 +59,9 @@ Place where I learn by doing
 
 [Homelab](https://github.com/HomeLabHQ)
 
-## Weekly stats
+<!-- ## Weekly stats -->
 
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript     16 hrs 51 mins  █████████▓░░░░░░░░░░░░░░░   38.02 %
-Python         15 hrs 18 mins  ████████▓░░░░░░░░░░░░░░░░   34.52 %
-Markdown       4 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-YAML           2 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Docker         1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-```
 
 <!--END_SECTION:waka-->
