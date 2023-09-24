@@ -14,6 +14,13 @@
 - 🤖 Crazy about automatization and efficiency
 - 👨🏻‍🏫 Eager to learn new things
 - 👨🏻‍🔧 Love to use knowledge to solve real-world problems
+- Have experience in domains:
+  - Healthcare
+  - Fintech
+  - E commerce
+  - Manufacturing (automotive)
+  - Logistics
+  - Telecommunications
 
 ## Stuff that I'm good with
 
