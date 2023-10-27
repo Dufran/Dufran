@@ -8,6 +8,7 @@
 - 👨‍💻 I’m currently working at [COAX](https://coaxsoft.com/) as Middle Python developer
 - 📚 Audio book/podcast addict (WIP series)
   - WH40K Horus Heresy 12/54(Prospero Burns)
+  - WH40K Siege of Terra 5/8 (Mortis)
   - WH40K Eisenhorn 3/4 (Hereticus)
   - The Expanse 9/9 (Leviathan Falls)
 - 🛠️ Tech enthusiast due to engineering background
@@ -39,7 +40,6 @@
 
 ## Stuff that I'm working with
 
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -60,15 +60,11 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Here will be dragons
-
-Place where I learn by doing
+## Place with examples
 
 [Homelab](https://github.com/HomeLabHQ)
 
-<!-- ## Weekly stats -->
-
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
+- Self hosted github action runner for all your ci/cd needs [runner](https://github.com/HomeLabHQ/runner)
+- Food/medication expiration tracking tool [expiration-tracker](https://github.com/HomeLabHQ/expiration-tracker)
+- Cookiecutter template for quick start django+react apps [template](https://github.com/HomeLabHQ/template)
+- Media server setup example (\*research purposes only) [media-server](https://github.com/HomeLabHQ/homelab)
