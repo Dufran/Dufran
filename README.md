@@ -5,7 +5,7 @@
 
 ## Bio
 
-- 👨‍💻 I’m currently working at [COAX](https://coaxsoft.com/) as Middle Python developer
+- 👨‍💻 I’m currently working at [PLANEKS](https://www.planeks.net)  as Python developer
 - 📚 Audio book/podcast addict (WIP series)
   - WH40K Horus Heresy 12/54(Prospero Burns)
   - WH40K Siege of Terra 5/8 (Mortis)
