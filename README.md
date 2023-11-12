@@ -5,7 +5,8 @@
 
 ## Bio
 
-- 👨‍💻 I’m currently working at [PLANEKS](https://www.planeks.net)  as Python developer
+- 👨‍💻 I’m currently working at ![Static Badge](https://img.shields.io/badge/PLANEKS-blue?&link=https%3A%2F%2Fwww.planeks.net%2F)
+ as Python developer
 - 📚 Audio book/podcast addict (WIP series)
   - WH40K Horus Heresy 12/54(Prospero Burns)
   - WH40K Siege of Terra 5/8 (Mortis)
@@ -60,11 +61,50 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Place with examples
+## Pet projects examples
 
-[Homelab](https://github.com/HomeLabHQ)
+### [Organization to hold all pet projects](https://github.com/HomeLabHQ)
 
-- Self hosted github action runner for all your ci/cd needs [runner](https://github.com/HomeLabHQ/runner)
-- Food/medication expiration tracking tool [expiration-tracker](https://github.com/HomeLabHQ/expiration-tracker)
-- Cookiecutter template for quick start django+react apps [template](https://github.com/HomeLabHQ/template)
-- Media server setup example (\*research purposes only) [media-server](https://github.com/HomeLabHQ/homelab)
+### Github runner image
+
+#### [Self hosted github action runner for all your ci/cd needs](https://github.com/HomeLabHQ/runner)
+
+### Expiration tracker
+
+#### [Django + React app for tracking food/medication expiration dates](https://github.com/HomeLabHQ/expiration-tracker)
+
+### Cookiecutter template for quick start django+react apps
+
+#### [Template to quickly start your projects](https://github.com/HomeLabHQ/template)
+
+### Media server
+
+#### [Media server setup example (\*research purposes only)](https://github.com/HomeLabHQ/homelab)
+
+#### Description
+
+```mermaid
+    C4Container
+    title Container diagram for homelab mediaserver
+
+    Person(user, User, "User that consumes media")
+    System_Boundary(homelab, "Media server") {
+        Container(heimdall, "Heimdall", "Homepage/dashboard")
+        Container(qbit, "QbitTorrent", "Torrent client")
+        Container(sonarr, "Sonarr", "Series watcher")
+        Container(radarr, "Radarr", "Movies watcher")
+        Container(prowlarr, "Prowlarr", "Search indexer")
+        Container(jellyfin, "Jellyfin", "Media server")
+        Container(jellyseerr, "Jellyseerr", "Media discovery&request service")
+    }
+    Rel(user, heimdall, "Uses dashboard to navigate")
+    BiRel(prowlarr, sonarr, "Syncs search feeds")
+    BiRel(prowlarr, radarr, "Syncs search feeds")
+    Rel(sonarr, qbit, "Delegate download tasks")
+    Rel(radarr, qbit, "Delegate download tasks")
+    Rel(user, jellyfin, "Consumes media")
+    Rel(user, jellyseerr, "Discovers media, and requests download")
+    Rel(jellyseerr, sonarr, "Requests tv media download")
+    Rel(jellyseerr, radarr, "Requests movies media download")
+    UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
+```
