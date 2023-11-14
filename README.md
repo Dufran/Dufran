@@ -6,7 +6,7 @@
 ## Bio
 
 - 👨‍💻 I’m currently working at ![Static Badge](https://img.shields.io/badge/PLANEKS-blue?&link=https%3A%2F%2Fwww.planeks.net%2F)
- as Python developer
+  as Python developer
 - 📚 Audio book/podcast addict (WIP series)
   - WH40K Horus Heresy 12/54(Prospero Burns)
   - WH40K Siege of Terra 5/8 (Mortis)
@@ -61,25 +61,15 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Pet projects examples
+### [Pet projects examples](https://github.com/HomeLabHQ)
 
-### [Organization to hold all pet projects](https://github.com/HomeLabHQ)
+### [Self hosted github action runner for all your ci/cd needs](https://github.com/HomeLabHQ/runner)
 
-### Github runner image
+### [Django + React app for tracking food/medication expiration dates](https://github.com/HomeLabHQ/expiration-tracker)
 
-#### [Self hosted github action runner for all your ci/cd needs](https://github.com/HomeLabHQ/runner)
+### [Cookiecutter template to quickly start your projects](https://github.com/HomeLabHQ/template)
 
-### Expiration tracker
-
-#### [Django + React app for tracking food/medication expiration dates](https://github.com/HomeLabHQ/expiration-tracker)
-
-### Cookiecutter template for quick start django+react apps
-
-#### [Template to quickly start your projects](https://github.com/HomeLabHQ/template)
-
-### Media server
-
-#### [Media server setup example (\*research purposes only)](https://github.com/HomeLabHQ/homelab)
+### [Media server setup example (\*research purposes only)](https://github.com/HomeLabHQ/homelab)
 
 #### Description
 
