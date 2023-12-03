@@ -63,6 +63,8 @@
 
 ### [Pet projects examples](https://github.com/HomeLabHQ)
 
+### [Django + React app for managing QA checklists and regression runs](https://github.com/HomeLabHQ/checklist-manager)
+
 ### [Self hosted github action runner for all your ci/cd needs](https://github.com/HomeLabHQ/runner)
 
 ### [Django + React app for tracking food/medication expiration dates](https://github.com/HomeLabHQ/expiration-tracker)
