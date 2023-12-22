@@ -1,6 +1,9 @@
 # 👋 Hello! I'm Oleksandr
 
+![Codewars](https://www.codewars.com/users/Dufran/badges/large)
+
 [![Linkedin: oleksandr.korol](https://img.shields.io/badge/-oleksandr.korol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleksandr-korol/)](https://www.linkedin.com/in/oleksandr-korol/)
+
 ![GitHub followers](https://img.shields.io/github/followers/dufran?label=Follow&style=social)
 
 ## Bio
