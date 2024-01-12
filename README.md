@@ -11,7 +11,7 @@
 - 👨‍💻 I’m currently working at ![Static Badge](https://img.shields.io/badge/PLANEKS-blue?&link=https%3A%2F%2Fwww.planeks.net%2F)
   as Python developer
 - 📚 Audio book/podcast addict (WIP series)
-  - WH40K Horus Heresy 12/54(Prospero Burns)
+  - WH40K Horus Heresy 15/54(Prospero Burns)
   - WH40K Siege of Terra 6/8 (Warhawk)
   - WH40K Eisenhorn 3/4 (Hereticus)
   - The Expanse 9/9 (Leviathan Falls)
