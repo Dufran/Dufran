@@ -12,7 +12,7 @@
   as Python developer
 - 📚 Audio book/podcast addict (WIP series)
   - WH40K Horus Heresy 12/54(Prospero Burns)
-  - WH40K Siege of Terra 5/8 (Mortis)
+  - WH40K Siege of Terra 6/8 (Warhawk)
   - WH40K Eisenhorn 3/4 (Hereticus)
   - The Expanse 9/9 (Leviathan Falls)
 - 🛠️ Tech enthusiast due to engineering background
@@ -22,10 +22,11 @@
 - Have experience in domains:
   - Healthcare
   - Fintech
+  - Real estate
   - E commerce
   - Manufacturing (automotive)
   - Logistics
-  - Telecommunications
+  - Telecommunication
 
 ## Stuff that I'm good with
 
