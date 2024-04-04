@@ -14,7 +14,7 @@ I am a Python Backend Developer with substantial commercial industry experience,
 
 #### Description
 
-Vdh-fulfillment is a portal for clients of logistic company. It allows clients to streamline common operations. With vdh-fulfillment clients can effortlessly track incoming and outgoing orders, access detailed order information, and receive real-time notifications from the internal ERP system. Plus, our user-friendly interface includes a range of convenient features such as customizable reports and seamless integration with external API (https://frends.com/). We created a dedicated authorizatiÏon service that enables Single Sign-On (SSO) across all existing portals. So the clients can enjoy a seamless and uninterrupted login experience across all 3 existing portals
+Vdh-fulfillment is a portal for clients of logistic company. It allows clients to streamline common operations. With vdh-fulfillment clients can effortlessly track incoming and outgoing orders, access detailed order information, and receive real-time notifications from the internal ERP system. Plus, our user-friendly interface includes a range of convenient features such as customizable reports and seamless integration with external API (https://frends.com/). We created a dedicated authorization service that enables Single Sign-On (SSO) across all existing portals. So the clients can enjoy a seamless and uninterrupted login experience across all 3 existing portals
 
 #### Goals
 
@@ -329,12 +329,16 @@ Set of utils models/mixins for handling online payment with various payment gate
 - 👨‍🍳 Cooking amateur
 - 🍿 Movies/TV series addict
 
-## Contact info
+## Language proficiency
 
-![Codewars](https://www.codewars.com/users/Dufran/badges/large)
+- English Upper-Intermediate
+- Ukrainian Native
+
+## Contact info
 
 [![Linkedin: oleksandr.korol](https://img.shields.io/badge/-oleksandr.korol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleksandr-korol/)](https://www.linkedin.com/in/oleksandr-korol/)
 
 ![GitHub followers](https://img.shields.io/github/followers/dufran?label=Follow&style=social)
 
 <a href="mailto:korol.oleksandr.work@gmail.com">korol.oleksandr.work@gmail.com</a>
+![Codewars](https://www.codewars.com/users/Dufran/badges/large)
