@@ -14,7 +14,7 @@ I am a Python Backend Developer with substantial commercial industry experience,
 
 #### Description
 
-Fulfillment is a portal for clients of logistic company. It allows clients to streamline common operations. With vdh-fulfillment clients can effortlessly track incoming and outgoing orders, access detailed order information, and receive real-time notifications from the internal ERP system. Plus, our user-friendly interface includes a range of convenient features such as customizable reports and seamless integration with external API (https://frends.com/). We created a dedicated authorization service that enables Single Sign-On (SSO) across all existing portals. So the clients can enjoy a seamless and uninterrupted login experience across all 3 existing portals
+Fulfillment is a portal for clients of logistic company. It allows clients to streamline common operations. With fulfillment clients can effortlessly track incoming and outgoing orders, access detailed order information, and receive real-time notifications from the internal ERP system. Plus, our user-friendly interface includes a range of convenient features such as customizable reports and seamless integration with external API (https://frends.com/). We created a dedicated authorization service that enables Single Sign-On (SSO) across all existing portals. So the clients can enjoy a seamless and uninterrupted login experience across all 3 existing portals
 
 #### Goals
 
